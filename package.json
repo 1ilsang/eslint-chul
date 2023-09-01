@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-chul",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "my plugin settings",
   "keywords": [
     "eslint",
