@@ -19,6 +19,7 @@ const ruleTester = new RuleTester();
 ruleTester.run("chul", rule, {
   valid: [
     // give me some code that won't trigger a warning
+    "var data = getData();",
   ],
 
   invalid: [
